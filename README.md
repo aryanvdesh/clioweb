@@ -5,7 +5,7 @@ Recommending books based on your search activity (specific) search history. Aim 
 
 ### Process
 
-We pull your browser history using Chrome Extension APIs.
-We make requests, to visited URLs over a time window, and parse the pages.
-We extract topics based on these which we store on your client.
-We then generate recommendations through these stored topics.
+1. We pull your browser history using Chrome Extension APIs.
+2. We make requests, to visited URLs over a time window, and parse the pages.
+3. We extract topics based on these which we store on your client.
+4. We then generate recommendations through these stored topics.
