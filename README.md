@@ -1,5 +1,5 @@
 ![clio logo](https://github.com/bhaprayan/clio/blob/master/images/logo.png)
-## clio | a virtual librarian
+
 clio is a browser plugin that will process search history and recommend books based on articles that you’ve read.
 ### Idea
 
