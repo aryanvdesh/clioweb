@@ -20,7 +20,7 @@ Since it isn't possible to visit the local library due to the outbreak, clio sug
 * Click install unpacked extensions and select this repository through the file tree popup.
 * That's it! Enjoy :)
 
-### notes
+### note
 
 * All search history processing is done on the client (i.e. your browser). You don't have to worry about privacy concerns.
 * In the future we aim to move to more sophisticated ML models to recommend topics, in which case we plan to move over to a backend stack based on differentially private ML. TLDR: we care about the privacy of your data :)
