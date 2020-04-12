@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to clio
 
-You can use the [editor on GitHub](https://github.com/aryanvdesh/clioweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+clio is a browser plugin that will process search history and recommend books based on articles that you’ve read.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
