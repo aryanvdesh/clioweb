@@ -3,6 +3,10 @@ clio is a browser plugin that will process search history and recommend books ba
 
 Recommending books based on your search activity (specific) search history. Aim is to base this on a differentially private ML to make media recommendations.
 
+### Creation Process
+
+Can’t visit the local library anymore. I’d still like to get more personal book recommendations, based on what I’ve been reading.
+
 ### Process
 
 1. We pull your browser history using Chrome Extension APIs.
