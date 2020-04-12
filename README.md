@@ -5,7 +5,7 @@ Recommending books based on your search activity (specific) search history. Aim 
 
 ### Creation Process
 
-Can’t visit the local library anymore. I’d still like to get more personal book recommendations, based on what I’ve been reading.
+Since it isn't possible to visit the local library anymore due to the outbreak, clio | a virtual librarian suggests you books based on your surfing with personalised recommendations!
 
 ### Process
 
@@ -13,6 +13,11 @@ Can’t visit the local library anymore. I’d still like to get more personal b
 2. We make requests, to visited URLs over a time window, and parse the pages.
 3. We extract topics based on these which we store on your client.
 4. We then generate recommendations through these stored topics.
+
+### Installation
+* Navigate to chrome://extensions
+* Click install unpacked extensions and select this repository through the file tree popup.
+* That's it! Enjoy :)
 
 ### Notes
 
