@@ -7,4 +7,4 @@ Recommending books based on your search activity (specific) search history. Aim 
 
 ### Why was it created?
 
-While selecting a book we generally tend to pickup something that might be recommend by someone else, but it might not be what you need right now. This plugin was built to recommend a book based on interests and the things you love to read!
+While selecting a book we generally tend to pickup something that might be recommended by someone else, but it might not be what you need right now. This plugin was built to recommend a book based on interests and the things you love to read!
