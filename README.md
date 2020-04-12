@@ -6,7 +6,7 @@ Recommending books based on your search activity (specific) search history. Aim 
 
 ### Creation Process
 
-Since it isn't possible to visit the local library anymore due to the outbreak, clio suggests you books based on your surfing with personalised recommendations!
+Since it isn't possible to visit the local library due to the outbreak, clio suggests you books based on your surfing with personalised recommendations!
 
 ### Process
 
