@@ -1,5 +1,5 @@
 
-clio is a browser plugin that will process search history and recommend books based on articles that you’ve read.
+clio is a browser plugin that processes search history and makes personalized book recommendations based on what you've been reading.
 ### idea
 
 Recommending books based on your search activity (specific) search history. Aim is to base this on a differentially private ML to make media recommendations.
